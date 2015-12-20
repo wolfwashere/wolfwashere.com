@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+ .container {
+   width: 800px;
+   margin: 0px auto;
+ }
+
+.main {
+  padding: 30px;
+}
+
+.content {
+  float: left;
+  width: 400px;
+}
+
+.siderbar {
+  float: right;
+  width: 200px;
+}
+
+.header, .footer {
+  background-color: #f1f1f1;
+  padding: 30px;
+}
+.clearfix:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
