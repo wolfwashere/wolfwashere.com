@@ -25,7 +25,7 @@ html, body {
 
 .header, .footer {
   background-color: maroon;
-  padding: 30px;
+  padding: 100px;
 }
 .clearfix:after {
   content: " ";
