@@ -24,7 +24,7 @@ html, body {
 
 .header, .footer {
   background-color: #f1f1f1;
-  padding: 30px;
+  padding: 100px;
 }
 .clearfix:after {
   content: " ";
